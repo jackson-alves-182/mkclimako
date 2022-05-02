@@ -3,7 +3,7 @@
 <div>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mkclimako&show_icons=true&bg_color=30,db5270,734f95,1547a7&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=mkclimako&bg_color=30,db5270,734f95,1547a7&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true&include_all_commits=true"
     alt=""
   />
   <img 
