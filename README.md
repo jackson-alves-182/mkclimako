@@ -82,5 +82,5 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
+![Snake animation](https://github.com/mkclimako/mkclimako/blob/output/github-contribution-grid-snake.svg)
 
