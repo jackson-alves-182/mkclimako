@@ -1,5 +1,4 @@
-### Hey! I hope you're doing great! I'm Marko, a full stack web development
-student at Rocketseat 👋
+### Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat 
 
 <div>
   <img
@@ -12,3 +11,26 @@ student at Rocketseat 👋
     alt=""
   />
 </div>
+
+<div>
+  
+  <img align="left" width="100"  height="30"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt=""
+  />
+
+  <img align="left" width="100"  height="30"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt=""
+  />
+  <img align="left" width="100"  height="30"
+  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  alt=""
+/>
+  <img align="left" width="100" height="30"
+  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  alt=""
+/>
+
+</div>
+
