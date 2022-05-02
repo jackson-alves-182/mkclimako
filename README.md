@@ -71,7 +71,7 @@
     />
   </a>
 
-  <a href="">
+  <a href="mailto:mkclimako@gmail.com">
     <img
     align="left"
     width="100"
