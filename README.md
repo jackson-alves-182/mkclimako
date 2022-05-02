@@ -1,4 +1,4 @@
-<h1  align="center">Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat 👋🏻</h1>
+<h1  align="left">Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat 👋🏻</h1>
 
 <div>
   <img
@@ -50,7 +50,7 @@
 </div>
 <br>
 <div>
-   <h2>You can find me at:</h2>
+   <h2 >You can find me at:</h2>
   <a href="https://www.linkedin.com/in/markoclimako/" target="_blank">
     <img
     align="left"
