@@ -1,4 +1,4 @@
-<h3>Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat</h3>
+<h1  align="center">Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat</h1>
 
 <div>
   <img
