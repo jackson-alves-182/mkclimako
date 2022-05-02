@@ -51,9 +51,35 @@
 <br>
 <div>
    <h2>You can find me at:</h2>
-    <a href="mailto:mkclimako@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
-    </a>
+  <a href="https://www.linkedin.com/in/markoclimako/" target="_blank">
+    <img
+    align="left"
+    width="100"
+    height="30"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt=""
+    />
+  </a>
+
+  <a href="https://discord.com/channels/@MarkoClimako#1197" target="_blank">
+    <img
+    align="left"
+    width="100"
+    height="30"
+      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+      alt=""
+    />
+  </a>
+
+  <a href="">
+    <img
+    align="left"
+    width="100"
+    height="30"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt=""
+    />
+  </a>
 </div>
 
 
