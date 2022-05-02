@@ -4,29 +4,11 @@ student at Rocketseat 👋
 <div>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api?username=mkclimako&show_icons=true&theme=blueberry&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=mkclimako&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&count_private=true"
     alt=""
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkclimako&show_icons=true&theme=blueberry&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkclimako&show_icons=true&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff&langs_count=8"
     alt=""
   />
-</div>
-<br>
-<br>
-<br>
-<div>
-  <a href="https://github.com/mkclimako/convoychat">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mkclimako&repo=Pixel-Arte&theme=blueberry"
-    />
-  </a>
-
-  <a href="https://github.com/mkclimako/convoychat">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=mkclimako&repo=-DE-CODIFICADOR&theme=blueberry"
-    />
-  </a>
 </div>
