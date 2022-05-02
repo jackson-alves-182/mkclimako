@@ -31,6 +31,34 @@
   src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
   alt=""
 />
+    <img align="left" width="100" height="30"
+    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    alt=""
+  />
+   <img align="left" width="100" height="30"
+    src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
+    alt=""
+  />
 
 </div>
+
+<div style="display: inline-block">
+  <img
+    align="left"
+    width="100"
+    height="30"
+    src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+    alt=""
+  />
+
+  <img
+    align="left"
+    width="100"
+    height="30"
+    src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"
+    alt=""
+  />
+</div>
+
+
 
