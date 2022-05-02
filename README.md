@@ -39,10 +39,6 @@
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
     alt=""
   />
-
-</div>
-
-<div style="display: inline-block">
   <img
     align="left"
     width="100"
@@ -51,13 +47,6 @@
     alt=""
   />
 
-  <img
-    align="left"
-    width="100"
-    height="30"
-    src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"
-    alt=""
-  />
 </div>
 
 
