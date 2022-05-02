@@ -1,4 +1,4 @@
-<h1  align="center">Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat</h1>
+<h1  align="center">Hey! I hope you're doing great! I'm Marko, a full stack web development student at Rocketseat 👋🏻</h1>
 
 <div>
   <img
@@ -48,6 +48,12 @@
   />
 
 </div>
-
+<br>
+<div>
+   <h2>You can find me at:</h2>
+    <a href="mailto:mkclimako@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="">
+    </a>
+</div>
 
 
